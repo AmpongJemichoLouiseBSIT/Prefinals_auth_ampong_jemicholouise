@@ -1,4 +1,9 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using prefinals_auth_ampong_jemicholouise.Data;
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddDbContext<prefinals_auth_ampong_jemicholouiseContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("prefinals_auth_ampong_jemicholouiseContext") ?? throw new InvalidOperationException("Connection string 'prefinals_auth_ampong_jemicholouiseContext' not found.")));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();

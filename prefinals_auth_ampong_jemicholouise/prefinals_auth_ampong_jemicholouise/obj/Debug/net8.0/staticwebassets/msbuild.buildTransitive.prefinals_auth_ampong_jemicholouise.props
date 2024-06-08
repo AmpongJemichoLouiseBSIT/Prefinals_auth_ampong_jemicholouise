@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\prefinals_auth_ampong_jemicholouise.props" />
+</Project>
