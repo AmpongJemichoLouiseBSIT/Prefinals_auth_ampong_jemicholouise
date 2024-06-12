@@ -3,44 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ampon\\OneDrive\\Desktop\\Prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E0553220-C0B5-4A6A-A452-FEF066687B31}|prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise.csproj|c:\\users\\ampon\\onedrive\\desktop\\prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\sql\\sqluserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0553220-C0B5-4A6A-A452-FEF066687B31}|prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise.csproj|solutionrelative:prefinals_auth_ampong_jemicholouise\\sql\\sqluserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0553220-C0B5-4A6A-A452-FEF066687B31}|prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise.csproj|c:\\users\\ampon\\onedrive\\desktop\\prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\core\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0553220-C0B5-4A6A-A452-FEF066687B31}|prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise.csproj|solutionrelative:prefinals_auth_ampong_jemicholouise\\core\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0553220-C0B5-4A6A-A452-FEF066687B31}|prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise.csproj|c:\\users\\ampon\\onedrive\\desktop\\prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\core\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0553220-C0B5-4A6A-A452-FEF066687B31}|prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise.csproj|solutionrelative:prefinals_auth_ampong_jemicholouise\\core\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0553220-C0B5-4A6A-A452-FEF066687B31}|prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise.csproj|c:\\users\\ampon\\onedrive\\desktop\\prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\core\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0553220-C0B5-4A6A-A452-FEF066687B31}|prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise.csproj|solutionrelative:prefinals_auth_ampong_jemicholouise\\core\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0553220-C0B5-4A6A-A452-FEF066687B31}|prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise.csproj|c:\\users\\ampon\\onedrive\\desktop\\prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\models\\secret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0553220-C0B5-4A6A-A452-FEF066687B31}|prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise.csproj|solutionrelative:prefinals_auth_ampong_jemicholouise\\models\\secret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0553220-C0B5-4A6A-A452-FEF066687B31}|prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise.csproj|c:\\users\\ampon\\onedrive\\desktop\\prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E0553220-C0B5-4A6A-A452-FEF066687B31}|prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise.csproj|solutionrelative:prefinals_auth_ampong_jemicholouise\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0553220-C0B5-4A6A-A452-FEF066687B31}|prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise.csproj|c:\\users\\ampon\\onedrive\\desktop\\prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E0553220-C0B5-4A6A-A452-FEF066687B31}|prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise.csproj|solutionrelative:prefinals_auth_ampong_jemicholouise\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0553220-C0B5-4A6A-A452-FEF066687B31}|prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise.csproj|c:\\users\\ampon\\onedrive\\desktop\\prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E0553220-C0B5-4A6A-A452-FEF066687B31}|prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise.csproj|solutionrelative:prefinals_auth_ampong_jemicholouise\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0553220-C0B5-4A6A-A452-FEF066687B31}|prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise.csproj|c:\\users\\ampon\\onedrive\\desktop\\prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E0553220-C0B5-4A6A-A452-FEF066687B31}|prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise.csproj|solutionrelative:prefinals_auth_ampong_jemicholouise\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0553220-C0B5-4A6A-A452-FEF066687B31}|prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise.csproj|c:\\users\\ampon\\onedrive\\desktop\\prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E0553220-C0B5-4A6A-A452-FEF066687B31}|prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise.csproj|solutionrelative:prefinals_auth_ampong_jemicholouise\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E0553220-C0B5-4A6A-A452-FEF066687B31}|prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise.csproj|c:\\users\\ampon\\onedrive\\desktop\\prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0553220-C0B5-4A6A-A452-FEF066687B31}|prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise.csproj|solutionrelative:prefinals_auth_ampong_jemicholouise\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,131 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "sqlUserService.cs",
-              "DocumentMoniker": "C:\\Users\\ampon\\OneDrive\\Desktop\\Prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\SQL\\sqlUserService.cs",
-              "RelativeDocumentMoniker": "prefinals_auth_ampong_jemicholouise\\SQL\\sqlUserService.cs",
-              "ToolTip": "C:\\Users\\ampon\\OneDrive\\Desktop\\Prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\SQL\\sqlUserService.cs",
-              "RelativeToolTip": "prefinals_auth_ampong_jemicholouise\\SQL\\sqlUserService.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBsAAABOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T06:29:42.931Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Secret.cs",
-              "DocumentMoniker": "C:\\Users\\ampon\\OneDrive\\Desktop\\Prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\Models\\Secret.cs",
-              "RelativeDocumentMoniker": "prefinals_auth_ampong_jemicholouise\\Models\\Secret.cs",
-              "ToolTip": "C:\\Users\\ampon\\OneDrive\\Desktop\\Prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\Models\\Secret.cs",
-              "RelativeToolTip": "prefinals_auth_ampong_jemicholouise\\Models\\Secret.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T06:26:30.664Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ampon\\OneDrive\\Desktop\\Prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\Views\\Users\\Index.cshtml",
-              "RelativeDocumentMoniker": "prefinals_auth_ampong_jemicholouise\\Views\\Users\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ampon\\OneDrive\\Desktop\\Prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\Views\\Users\\Index.cshtml",
-              "RelativeToolTip": "prefinals_auth_ampong_jemicholouise\\Views\\Users\\Index.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAMwCEAAAA7AAAA",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ampon\\OneDrive\\Desktop\\Prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "prefinals_auth_ampong_jemicholouise\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ampon\\OneDrive\\Desktop\\Prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "prefinals_auth_ampong_jemicholouise\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-08T06:26:13.003Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\ampon\\OneDrive\\Desktop\\Prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\Views\\Users\\Edit.cshtml",
-              "RelativeDocumentMoniker": "prefinals_auth_ampong_jemicholouise\\Views\\Users\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\ampon\\OneDrive\\Desktop\\Prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\Views\\Users\\Edit.cshtml",
-              "RelativeToolTip": "prefinals_auth_ampong_jemicholouise\\Views\\Users\\Edit.cshtml",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAjwBcAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-08T06:25:58.11Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\ampon\\OneDrive\\Desktop\\Prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\Views\\Users\\Details.cshtml",
-              "RelativeDocumentMoniker": "prefinals_auth_ampong_jemicholouise\\Views\\Users\\Details.cshtml",
-              "ToolTip": "C:\\Users\\ampon\\OneDrive\\Desktop\\Prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\Views\\Users\\Details.cshtml",
-              "RelativeToolTip": "prefinals_auth_ampong_jemicholouise\\Views\\Users\\Details.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAjwBYAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-08T06:25:43.347Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\ampon\\OneDrive\\Desktop\\Prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\Views\\Users\\Delete.cshtml",
-              "RelativeDocumentMoniker": "prefinals_auth_ampong_jemicholouise\\Views\\Users\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\ampon\\OneDrive\\Desktop\\Prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\Views\\Users\\Delete.cshtml",
-              "RelativeToolTip": "prefinals_auth_ampong_jemicholouise\\Views\\Users\\Delete.cshtml",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAjwBcAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-08T06:25:29.213Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ampon\\OneDrive\\Desktop\\Prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\Views\\Users\\Create.cshtml",
-              "RelativeDocumentMoniker": "prefinals_auth_ampong_jemicholouise\\Views\\Users\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ampon\\OneDrive\\Desktop\\Prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\Views\\Users\\Create.cshtml",
-              "RelativeToolTip": "prefinals_auth_ampong_jemicholouise\\Views\\Users\\Create.cshtml",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAABYAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-08T06:24:56.542Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "C:\\Users\\ampon\\OneDrive\\Desktop\\Prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\Core\\IAuthService.cs",
-              "RelativeDocumentMoniker": "prefinals_auth_ampong_jemicholouise\\Core\\IAuthService.cs",
-              "ToolTip": "C:\\Users\\ampon\\OneDrive\\Desktop\\Prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\Core\\IAuthService.cs",
-              "RelativeToolTip": "prefinals_auth_ampong_jemicholouise\\Core\\IAuthService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T06:05:41.76Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\ampon\\OneDrive\\Desktop\\Prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\Core\\IUserService.cs",
-              "RelativeDocumentMoniker": "prefinals_auth_ampong_jemicholouise\\Core\\IUserService.cs",
-              "ToolTip": "C:\\Users\\ampon\\OneDrive\\Desktop\\Prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\Core\\IUserService.cs",
-              "RelativeToolTip": "prefinals_auth_ampong_jemicholouise\\Core\\IUserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T06:05:37.706Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\ampon\\OneDrive\\Desktop\\Prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\Core\\User.cs",
-              "RelativeDocumentMoniker": "prefinals_auth_ampong_jemicholouise\\Core\\User.cs",
-              "ToolTip": "C:\\Users\\ampon\\OneDrive\\Desktop\\Prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\prefinals_auth_ampong_jemicholouise\\Core\\User.cs",
-              "RelativeToolTip": "prefinals_auth_ampong_jemicholouise\\Core\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T06:04:05.708Z",
+              "WhenOpened": "2024-06-12T14:45:53.049Z",
               "EditorCaption": ""
             }
           ]

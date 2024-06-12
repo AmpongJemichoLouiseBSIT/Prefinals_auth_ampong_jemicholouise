@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("prefinals_auth_ampong_jemicholouise")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f78dbc4e2666425f4833fe51f80d114a3266423")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+836f7566fe913da6c16633f729e676291f8c6959")]
 [assembly: System.Reflection.AssemblyProductAttribute("prefinals_auth_ampong_jemicholouise")]
 [assembly: System.Reflection.AssemblyTitleAttribute("prefinals_auth_ampong_jemicholouise")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

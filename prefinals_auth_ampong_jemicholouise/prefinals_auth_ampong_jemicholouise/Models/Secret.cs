@@ -1,15 +1,41 @@
-﻿using Microsoft.AspNetCore.Mvc;
-
-namespace prefinals_auth_ampong_jemicholouise.Models
+﻿namespace PokemonApp.Models
 {
-    public class Program
+    public class ErrorViewModel
     {
-        public static void Main(string[] args)
+        public string? RequestId { get; set; }
+
+        public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
+    }
+}
+
+
+
+namespace PokemonApp.Models
+{
+    public class Pokemon
+    {
+        public string Name { get; set; }
+        public List<PokemonAbility> Abilities { get; set; }
+        public List<PokemonMove> Moves { get; set; }
+
+        public class PokemonAbility
         {
-            var rng = System.Security.Cryptography.RandomNumberGenerator.Create();
-            var bytes = new byte[256 / 8];
-            rng.GetBytes(bytes);
-            Console.WriteLine(Convert.ToBase64String(bytes));
+            public AbilityDetail Ability { get; set; }
+
+            public class AbilityDetail
+            {
+                public string Name { get; set; }
+            }
+        }
+
+        public class PokemonMove
+        {
+            public MoveDetail Move { get; set; }
+
+            public class MoveDetail
+            {
+                public string Name { get; set; }
+            }
         }
     }
 }
